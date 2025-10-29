@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Vividly";
-  src: url("vividly-Regular.woff2") format("woff2"),
-       url("vividly-Regular.woff") format("woff");
+  src: url("Vividly-Regular.woff2") format("woff2"),
+       url("Vividly-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-size: 5.0em;
